@@ -1,4 +1,4 @@
-# 06_JavaWeb_smbms
+# 02_JavaWeb_smbms
 
 > 展示最后效果（部分）
 
