@@ -1,4 +1,5 @@
-# 02_JavaWeb_smbms
+# SuperMarketManagementSystem
+基于JavaWeb的超市订单管理系统（狂神说）
 
 > 展示最后效果（部分）
 
